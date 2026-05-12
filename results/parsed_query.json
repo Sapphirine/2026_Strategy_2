@@ -1,0 +1,56 @@
+{
+  "raw_query": "Generate a 2-day family trip, kids love zoos, staying in midtown. Keep zoos in the afternoon.",
+  "trip_duration_days": 2,
+  "start_date": null,
+  "group_type": "family",
+  "pace": "moderate",
+  "preferred_zones": [
+    "midtown"
+  ],
+  "preferred_categories": [
+    "parks_nature_beach"
+  ],
+  "preferred_types": [
+    "garden",
+    "hiking_area",
+    "wildlife_park",
+    "national_park",
+    "zoo",
+    "park",
+    "beach"
+  ],
+  "time_preferences": {
+    "morning": {
+      "prefer": [],
+      "avoid": []
+    },
+    "afternoon": {
+      "prefer": [
+        "zoo"
+      ],
+      "avoid": []
+    },
+    "evening": {
+      "prefer": [],
+      "avoid": []
+    }
+  },
+  "hard_constraints": {
+    "must_include_pois": [],
+    "must_exclude_types": [],
+    "max_hours_per_day": 12,
+    "avoid_days": []
+  },
+  "soft_constraints": {
+    "prefer_high_rated": false,
+    "prefer_less_crowded": false,
+    "need_meal_breaks": true,
+    "minimize_travel": true,
+    "balance_days": true
+  },
+  "implicit_needs": [
+    "kid_friendly"
+  ],
+  "confidence": 0.6,
+  "warnings": []
+}
