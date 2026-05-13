@@ -4,6 +4,7 @@
 
 TripEase is an end-to-end AI travel agent that takes a plain-English trip query and produces a fully scheduled, time-validated, multi-day itinerary. It combines NLP query parsing, aspect-based sentiment analysis of visitor reviews, retrieval-augmented generation from past trips, VRP-based tour optimisation, exact temporal scheduling, and a conversational Gradio UI — all running locally on Apple Silicon.
 
+Youtube video link : [https://www.youtube.com/watch?v=GKb7Bov0Qts](url)
 ---
 
 ## 📑 Table of Contents
