@@ -704,7 +704,9 @@ You:   "Can I add one more stop without going over 12 hours?"
 │   ├── session_memory.json    # Stage 7 session state (auto-generated)
 │   ├── itinerary_map.png # Folium map (auto-generated)
 │   └── itinerary_timeline.png   # Plotly timeline (auto-generated)
-├── project_presentation.pdf
+├──deliverables/
+│   ├── rk3408.pdf  # Final Project Report
+│   └── project_presentation.pdf # Presentation Slides in PDF format
 └── README.md
 ```
 
