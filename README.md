@@ -673,7 +673,7 @@ You:   "Can I add one more stop without going over 12 hours?"
 
 ---
 
-## Project Structure
+## Repository Structure
 
 ```
 .
